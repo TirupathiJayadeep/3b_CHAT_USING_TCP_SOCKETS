@@ -26,9 +26,6 @@ while True:
         c.close()
         break
 ```
-### OUPUT
-![image](https://github.com/user-attachments/assets/3fc190e0-f1d1-4306-a8fd-d86c2d47521d)
-
 ### Server.PY
 ```
 import socket
@@ -38,8 +35,8 @@ while True:
     print(s.recv(1024).decode())
     s.send("Acknowledgement Recived".encode())
 ```
-### OUTPUT
-![image](https://github.com/user-attachments/assets/b65dbaa5-51e4-4df0-934a-6477b76b7400)
+## OUTPUT
+![image](https://github.com/user-attachments/assets/47520c06-4069-4ba0-b037-99c77e9e7181)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
