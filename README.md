@@ -39,7 +39,7 @@ while True:
     s.send("Acknowledgement Recived".encode())
 ```
 ### OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b65dbaa5-51e4-4df0-934a-6477b76b7400)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
